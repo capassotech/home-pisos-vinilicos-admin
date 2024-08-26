@@ -1,0 +1,19 @@
+﻿@*@page "/add-product"
+@inject ProductService ProductService
+
+<EditForm Model="product" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <InputText @bind-Value="product.Name" />
+    <InputNumber @bind-Value="product.Price" />
+    <button type="submit">Add Product</button>
+</EditForm>
+
+@code {
+    private Product product = new Product();
+
+    private async Task HandleValidSubmit()
+    {
+        await ProductService.AddProductAsync(product);
+    }
+}*@

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos-admin.Server", "Server\home-pisos-vinilicos-admin.Server.csproj", "{A82EE8D0-D32E-48E1-B750-7777E274CFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos-admin.Client", "Client\home-pisos-vinilicos-admin.Client.csproj", "{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos-admin.Shared", "Shared\home-pisos-vinilicos-admin.Shared.csproj", "{8EFA2478-BEDB-4A17-B0AD-36B3320E0685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos.Application", "..\home-pisos-vinilicos.Application\home-pisos-vinilicos.Application.csproj", "{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos.Domain", "..\home-pisos-vinilicos.Domain\home-pisos-vinilicos.Domain.csproj", "{658E2DE8-45D1-4ADF-A560-424BCE465EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home-pisos-vinilicos.Data", "..\home-pisos-vinilicos.Data\home-pisos-vinilicos.Data.csproj", "{F924DF80-83E9-4ABB-A394-74F2D4FE9C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82EE8D0-D32E-48E1-B750-7777E274CFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82EE8D0-D32E-48E1-B750-7777E274CFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82EE8D0-D32E-48E1-B750-7777E274CFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82EE8D0-D32E-48E1-B750-7777E274CFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFA2478-BEDB-4A17-B0AD-36B3320E0685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFA2478-BEDB-4A17-B0AD-36B3320E0685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFA2478-BEDB-4A17-B0AD-36B3320E0685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFA2478-BEDB-4A17-B0AD-36B3320E0685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658E2DE8-45D1-4ADF-A560-424BCE465EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658E2DE8-45D1-4ADF-A560-424BCE465EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658E2DE8-45D1-4ADF-A560-424BCE465EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658E2DE8-45D1-4ADF-A560-424BCE465EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F924DF80-83E9-4ABB-A394-74F2D4FE9C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F924DF80-83E9-4ABB-A394-74F2D4FE9C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F924DF80-83E9-4ABB-A394-74F2D4FE9C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F924DF80-83E9-4ABB-A394-74F2D4FE9C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD6D16B-B251-455E-947F-6DC7290BFA48}
+	EndGlobalSection
+EndGlobal
