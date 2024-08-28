@@ -5,4 +5,13 @@
     <RootNamespace>home_pisos_vinilicos.Application</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="3.0.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\home-pisos-vinilicos.Data\home-pisos-vinilicos.Data.csproj" />
+  </ItemGroup>
+
 </Project>

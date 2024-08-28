@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj": {}
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
         "projectName": "home-pisos-vinilicos-admin.Client",
-        "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
-        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
-                "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
               }
             }
           }
@@ -38,12 +41,25 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[3.2.1, )"
@@ -69,7 +85,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,21 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj": {
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj",
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj",
         "projectName": "home-pisos-vinilicos-admin.Server",
-        "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj",
-        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\obj\\",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\home-pisos-vinilicos-admin.Server.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,11 +126,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
-                "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj"
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj"
               },
-              "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
-                "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
+              },
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj"
+              },
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj"
               }
             }
           }
@@ -119,12 +145,25 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[3.2.1, )"
@@ -136,7 +175,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -148,21 +188,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
         "projectName": "home-pisos-vinilicos-admin.Shared",
-        "projectPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
-        "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\OneDrive\\Escritorio\\Proyectos\\MI REPO\\CAPASSOTECH\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,18 +225,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -202,7 +261,157 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj",
+        "projectName": "home-pisos-vinilicos.Application",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj": {
+                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj",
+        "projectName": "home-pisos-vinilicos.Data",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\home-pisos-vinilicos.Data.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.68.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

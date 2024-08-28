@@ -7,10 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="firebase.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="firebase.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="3.0.0" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="3.2.1" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\home-pisos-vinilicos.Application\home-pisos-vinilicos.Application.csproj" />
+    <ProjectReference Include="..\..\home-pisos-vinilicos.Data\home-pisos-vinilicos.Data.csproj" />
     <ProjectReference Include="..\Client\home-pisos-vinilicos-admin.Client.csproj" />
     <ProjectReference Include="..\Shared\home-pisos-vinilicos-admin.Shared.csproj" />
   </ItemGroup>

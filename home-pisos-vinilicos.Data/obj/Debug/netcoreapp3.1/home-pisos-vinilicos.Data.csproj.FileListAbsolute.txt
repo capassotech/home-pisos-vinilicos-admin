@@ -8,3 +8,13 @@ C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vini
 C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.CoreCompileInputs.cache
 C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
 C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.deps.json
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.AssemblyReference.cache
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.AssemblyInfoInputs.cache
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.AssemblyInfo.cs
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
