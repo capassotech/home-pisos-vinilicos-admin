@@ -18,3 +18,14 @@ C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.CoreCompileInputs.cache
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.deps.json
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.AssemblyReference.cache
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.AssemblyInfoInputs.cache
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.AssemblyInfo.cs
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.sourcelink.json
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos.Data\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb

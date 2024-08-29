@@ -159,7 +159,10 @@
           "Google.Apis.Auth": "1.68.0"
         },
         "runtime": {
-          "home-pisos-vinilicos.Data.dll": {}
+          "home-pisos-vinilicos.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

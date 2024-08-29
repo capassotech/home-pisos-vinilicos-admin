@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {}
+    "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
+    "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
         "projectName": "home-pisos-vinilicos-admin.Client",
-        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
-        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\",
+        "projectPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\home-pisos-vinilicos-admin.Client.csproj",
+        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
-                "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
+              "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+                "projectPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj"
               }
             }
           }
@@ -95,24 +97,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+    "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
         "projectName": "home-pisos-vinilicos-admin.Shared",
-        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
-        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,6 +123,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -168,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

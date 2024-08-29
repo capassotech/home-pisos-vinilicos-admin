@@ -829,7 +829,10 @@
           "home-pisos-vinilicos-admin.Shared": "1.0.0"
         },
         "runtime": {
-          "home-pisos-vinilicos-admin.Client.dll": {}
+          "home-pisos-vinilicos-admin.Client.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "home-pisos-vinilicos-admin.Client.dll": {}
@@ -841,7 +844,10 @@
           "Google.Apis.Auth": "1.68.0"
         },
         "runtime": {
-          "home-pisos-vinilicos-admin.Shared.dll": {}
+          "home-pisos-vinilicos-admin.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "home-pisos-vinilicos-admin.Shared.dll": {}
@@ -854,7 +860,10 @@
           "home-pisos-vinilicos.Data": "1.0.0"
         },
         "runtime": {
-          "home-pisos-vinilicos.Application.dll": {}
+          "home-pisos-vinilicos.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "home-pisos-vinilicos.Application.dll": {}
@@ -866,7 +875,10 @@
           "Google.Apis.Auth": "1.68.0"
         },
         "runtime": {
-          "home-pisos-vinilicos.Data.dll": {}
+          "home-pisos-vinilicos.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "home-pisos-vinilicos.Data.dll": {}

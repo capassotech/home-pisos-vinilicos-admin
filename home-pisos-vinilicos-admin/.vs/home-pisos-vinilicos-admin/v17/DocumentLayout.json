@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\",
+  "WorkspaceRootPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\firebase\\firebaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}|Client\\home-pisos-vinilicos-admin.Client.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}|Client\\home-pisos-vinilicos-admin.Client.csproj|solutionrelative:client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}|Client\\home-pisos-vinilicos-admin.Client.csproj|c:\\users\\joaco\\desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B662AAE7-473D-4EF3-AFDC-B5CE0A54640D}|Client\\home-pisos-vinilicos-admin.Client.csproj|solutionrelative:client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -64,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Properties\\launchSettings.json",
               "RelativeToolTip": "Server\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T18:42:37.528Z",
               "EditorCaption": ""
@@ -77,11 +85,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.json",
               "RelativeToolTip": "Server\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T18:40:41.737Z",
               "EditorCaption": ""
@@ -90,11 +98,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Server\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\appsettings.Development.json",
               "RelativeToolTip": "Server\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-28T18:40:44.055Z",
               "EditorCaption": ""
@@ -103,11 +111,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Startup.cs",
               "RelativeDocumentMoniker": "Server\\Startup.cs",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Startup.cs",
               "RelativeToolTip": "Server\\Startup.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T17:57:07.464Z",
               "EditorCaption": ""
@@ -117,88 +125,80 @@
               "DocumentIndex": 7,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
               "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
-              "RelativeToolTip": "..\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T17:28:24.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T17:28:24.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T20:36:50.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "FirebaseInitializer.cs",
               "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
-              "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
               "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
-              "RelativeToolTip": "..\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\firebase\\FirebaseInitializer.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T18:12:51.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T18:12:51.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Server\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T21:09:36.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
               "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "..\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:55:13.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "..\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:06:28.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:55:13.533Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\ProductService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:06:28.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Client\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\Properties\\launchSettings.json",
               "RelativeToolTip": "Client\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-27T19:50:44.141Z",
               "EditorCaption": ""
