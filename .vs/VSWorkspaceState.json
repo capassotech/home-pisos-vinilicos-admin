@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\home-pisos-vinilicos-admin",
-    "\\home-pisos-vinilicos-admin\\Client",
+    "\\home-pisos-vinilicos-admin\\Server",
+    "\\home-pisos-vinilicos-admin\\Server\\Controllers",
     "\\home-pisos-vinilicos.Application",
     "\\home-pisos-vinilicos.Application\\Services",
     "\\home-pisos-vinilicos.Application\\Services\\Interfaces",
@@ -11,6 +12,6 @@
     "\\home-pisos-vinilicos.Domain",
     "\\home-pisos-vinilicos.Domain\\Entities"
   ],
-  "SelectedNode": "\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
+  "SelectedNode": "\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
   "PreviewInSolutionExplorer": false
 }
