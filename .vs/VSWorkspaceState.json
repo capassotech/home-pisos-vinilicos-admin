@@ -4,8 +4,10 @@
     "\\home-pisos-vinilicos-admin",
     "\\home-pisos-vinilicos-admin\\Client",
     "\\home-pisos-vinilicos.Data",
-    "\\home-pisos-vinilicos.Data\\Repositories"
+    "\\home-pisos-vinilicos.Data\\Repositories",
+    "\\home-pisos-vinilicos.Domain",
+    "\\home-pisos-vinilicos.Domain\\Entities"
   ],
-  "SelectedNode": "\\home-pisos-vinilicos.Data\\Repositories\\ProductRepository.cs",
+  "SelectedNode": "\\home-pisos-vinilicos.Domain\\Entities\\Status.cs",
   "PreviewInSolutionExplorer": false
 }
