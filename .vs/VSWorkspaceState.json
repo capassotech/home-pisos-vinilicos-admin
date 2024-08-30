@@ -3,11 +3,14 @@
     "",
     "\\home-pisos-vinilicos-admin",
     "\\home-pisos-vinilicos-admin\\Client",
+    "\\home-pisos-vinilicos.Application",
+    "\\home-pisos-vinilicos.Application\\Services",
+    "\\home-pisos-vinilicos.Application\\Services\\Interfaces",
     "\\home-pisos-vinilicos.Data",
     "\\home-pisos-vinilicos.Data\\Repositories",
     "\\home-pisos-vinilicos.Domain",
     "\\home-pisos-vinilicos.Domain\\Entities"
   ],
-  "SelectedNode": "\\home-pisos-vinilicos.Domain\\Entities\\Status.cs",
+  "SelectedNode": "\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
   "PreviewInSolutionExplorer": false
 }

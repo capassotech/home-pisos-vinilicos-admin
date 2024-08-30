@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABA6F346-DA95-4EF4-BCA7-A550C0E83E65}|..\\home-pisos-vinilicos.Application\\home-pisos-vinilicos.Application.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|solutionrelative:server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A82EE8D0-D32E-48E1-B750-7777E274CFD3}|Server\\home-pisos-vinilicos-admin.Server.csproj|c:\\users\\karen\\onedrive\\escritorio\\pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
               "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\Interfaces\\IAuthenticationService.cs",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "..\\home-pisos-vinilicos.Domain\\Entities\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T16:42:11.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T16:42:11.949Z"
             },
             {
               "$type": "Document",
@@ -111,25 +110,24 @@
               "RelativeToolTip": "Server\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T16:06:18.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T16:06:18.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Server\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T16:04:03.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "..\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "..\\home-pisos-vinilicos.Application\\Services\\AuthenticationService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T15:49:39.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T15:49:39.425Z"
             }
           ]
         }
