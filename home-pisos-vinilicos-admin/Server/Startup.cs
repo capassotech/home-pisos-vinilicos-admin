@@ -76,5 +76,6 @@ namespace home_pisos_vinilicos_admin.Server
                 endpoints.MapFallbackToFile("index.html");
             });
         }
+
     }
 }
