@@ -1,12 +1,20 @@
-﻿using System;
+﻿using home_pisos_vinilicos.Domain.Entities;
+using System;
+using System.ComponentModel;
 
 namespace home_pisos_vinilicos_admin.Domain
 {
     public class Product
     {
-        public string Id { get; set; }
+        public string IdProduct { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
+        public String Description { get; set; }
+        public decimal Size { get; set; }
+        public String Color { get; set; }
+        public int Quantity { get; set; }
+        public Category category { get; set; }
+
     }
 
 }

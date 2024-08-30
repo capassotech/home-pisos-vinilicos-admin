@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("home-pisos-vinilicos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1187a2ae86547e9b152c1773cd52f7571226f196")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b4da17d168f9d118c6a37870a806a837ef9c195")]
 [assembly: System.Reflection.AssemblyProductAttribute("home-pisos-vinilicos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("home-pisos-vinilicos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
