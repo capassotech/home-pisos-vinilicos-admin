@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\29_phg5t3A6wG1QQpp5pNHn6UeZE0pkx03Bq37qrgzs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Wh8t6KKmyZgP9O11VQIdYxCREubiHSij3JXL_nF47Qc=.hash",
       "Source": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\home-pisos-vinilicos-admin.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/home-pisos-vinilicos-admin.Client.dll.gz"
     },
@@ -191,7 +191,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tI9WdZC8VvhJISwKDbjhRBrW7yevibuVZptlwWpSkgg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mHkecZfpnnMcABWQiKZpjO5KYxpPj0BrHhbaF9M_AcU=.hash",
       "Source": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\home-pisos-vinilicos-admin.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/home-pisos-vinilicos-admin.Shared.dll.gz"
     },
@@ -266,12 +266,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NcFyecIeT59UVlYDjn6OtLpwTXi0mJPfQr4wvT4MtV0=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\srMZ3H6KV8A739Z7pPnSe2eHZxdRoG_7C3EkO_92SYU=.hash",
       "Source": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\home-pisos-vinilicos-admin.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/home-pisos-vinilicos-admin.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YeIYXolUobgmdSBBrW-xRA4qR7a6u7EI9ueDUbWWlDE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\wbXwQiZuJtSyYzLeTX3hizxOiJKECy3HFSzaEtnM8i4=.hash",
       "Source": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\home-pisos-vinilicos-admin.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/home-pisos-vinilicos-admin.Shared.pdb.gz"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Ee3VpjO_hWTsbC8LhULUxQhevb1C8FyqkmCWohZ0NOE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\S6cT1M-Qgs5fWG_J5O-7aEM4VnTrYoisuCF_sk822M4=.hash",
       "Source": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

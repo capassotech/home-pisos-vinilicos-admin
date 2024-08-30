@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\home-pisos-vinilicos-admin",
-    "\\home-pisos-vinilicos-admin\\Client"
+    "\\home-pisos-vinilicos-admin\\Client",
+    "\\home-pisos-vinilicos.Data",
+    "\\home-pisos-vinilicos.Data\\Repositories"
   ],
-  "SelectedNode": "\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin.sln",
+  "SelectedNode": "\\home-pisos-vinilicos.Data\\Repositories\\ProductRepository.cs",
   "PreviewInSolutionExplorer": false
 }

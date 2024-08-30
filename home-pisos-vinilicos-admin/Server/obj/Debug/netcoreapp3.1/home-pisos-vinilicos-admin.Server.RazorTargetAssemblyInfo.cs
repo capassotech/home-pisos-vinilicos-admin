@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("home-pisos-vinilicos-admin.Server")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1187a2ae86547e9b152c1773cd52f7571226f196")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87bf7cf8574d9c8adc30add5d99681bd8c6385ae")]
 [assembly: System.Reflection.AssemblyTitleAttribute("home-pisos-vinilicos-admin.Server.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

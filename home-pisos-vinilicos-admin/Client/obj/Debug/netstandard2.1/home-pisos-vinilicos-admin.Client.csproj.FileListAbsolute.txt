@@ -961,7 +961,6 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\home-pisos-vinilicos-admin.Client.sourcelink.json
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\home-pisos-vinilicos-admin.Client.RazorTargetAssemblyInfo.cache
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\29_phg5t3A6wG1QQpp5pNHn6UeZE0pkx03Bq37qrgzs=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -999,7 +998,6 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\tI9WdZC8VvhJISwKDbjhRBrW7yevibuVZptlwWpSkgg=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
@@ -1014,14 +1012,11 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\NcFyecIeT59UVlYDjn6OtLpwTXi0mJPfQr4wvT4MtV0=.hash
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\YeIYXolUobgmdSBBrW-xRA4qR7a6u7EI9ueDUbWWlDE=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\Ee3VpjO_hWTsbC8LhULUxQhevb1C8FyqkmCWohZ0NOE=.hash
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\home-pisos-vinilicos-admin.Client.dll.gz
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -1152,3 +1147,8 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\home-pis.B6AC2412.Up2Date
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\home-pisos-vinilicos-admin.Client.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\home-pisos-vinilicos-admin.Client.pdb
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\Wh8t6KKmyZgP9O11VQIdYxCREubiHSij3JXL_nF47Qc=.hash
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\mHkecZfpnnMcABWQiKZpjO5KYxpPj0BrHhbaF9M_AcU=.hash
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\srMZ3H6KV8A739Z7pPnSe2eHZxdRoG_7C3EkO_92SYU=.hash
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\wbXwQiZuJtSyYzLeTX3hizxOiJKECy3HFSzaEtnM8i4=.hash
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\obj\Debug\netstandard2.1\integrity\S6cT1M-Qgs5fWG_J5O-7aEM4VnTrYoisuCF_sk822M4=.hash
