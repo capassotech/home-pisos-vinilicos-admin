@@ -1,0 +1,10 @@
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.deps.json
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.dll
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.pdb
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.AssemblyInfo.cs
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.dll
+C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos.Domain\obj\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.pdb
