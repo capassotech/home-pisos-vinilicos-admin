@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {}
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
+    "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
         "projectName": "home-pisos-vinilicos-admin.Shared",
-        "projectPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
-        "packagesPath": "C:\\Users\\karen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karen\\OneDrive\\Escritorio\\Pisos program\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\home-pisos-vinilicos-admin.Shared.csproj",
+        "packagesPath": "C:\\Users\\joaco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaco\\Desktop\\home-pisos-vinilicos-admin\\home-pisos-vinilicos-admin\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\karen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joaco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +48,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "Firebase.Database": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "FirebaseAdmin": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

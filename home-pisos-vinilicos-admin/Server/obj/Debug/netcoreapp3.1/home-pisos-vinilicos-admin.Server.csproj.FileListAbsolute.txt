@@ -687,3 +687,8 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.genruntimeconfig.cache
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Firebase.Database.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.PlatformServices.dll
