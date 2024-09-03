@@ -6,79 +6,84 @@
 
 namespace home_pisos_vinilicos_admin.Client.Shared
 {
-    #line default
-    using global::System;
-    using global::System.Collections.Generic;
-    using global::System.Linq;
-    using global::System.Threading.Tasks;
-    using global::Microsoft.AspNetCore.Components;
+    #line hidden
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using System.Net.Http
-
-#nullable disable
-    ;
-#nullable restore
-#line 2 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using System.Net.Http.Json
-
-#nullable disable
-    ;
-#nullable restore
-#line 3 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Forms
-
-#nullable disable
-    ;
-#nullable restore
-#line 4 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Routing
-
-#nullable disable
-    ;
-#nullable restore
-#line 5 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web
-
-#nullable disable
-    ;
-#nullable restore
-#line 6 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using Microsoft.AspNetCore.Components.WebAssembly.Http
-
-#nullable disable
-    ;
-#nullable restore
-#line 7 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using Microsoft.JSInterop
-
-#nullable disable
-    ;
-#nullable restore
-#line 8 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using home_pisos_vinilicos_admin.Client
-
-#nullable disable
-    ;
-#nullable restore
-#line 9 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
-using home_pisos_vinilicos_admin.Client.Shared
+#line 1 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
-    ;
-    #nullable restore
-    public partial class SurveyPrompt : global::Microsoft.AspNetCore.Components.ComponentBase
-    #nullable disable
+#nullable restore
+#line 2 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using System.Net.Http.Json;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Forms;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Routing;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.Web;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using Microsoft.AspNetCore.Components.WebAssembly.Http;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using Microsoft.JSInterop;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using home_pisos_vinilicos_admin.Client;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 9 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\_Imports.razor"
+using home_pisos_vinilicos_admin.Client.Shared;
+
+#line default
+#line hidden
+#nullable disable
+    public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
-        protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
+        protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\Shared\SurveyPrompt.razor"
+#line 12 "C:\Users\elias\OneDrive\Escritorio\Proyectos\MI REPO\CAPASSOTECH\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Client\Shared\SurveyPrompt.razor"
        
     // Demonstrates how a parent component can supply parameters
     [Parameter]
@@ -87,7 +92,6 @@ using home_pisos_vinilicos_admin.Client.Shared
 #line default
 #line hidden
 #nullable disable
-
     }
 }
 #pragma warning restore 1591
