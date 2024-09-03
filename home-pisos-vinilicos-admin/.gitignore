@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.csproj.user
+*.dbmdl
+*.bak
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# ASP.NET
+*.cshtml
+*.cshtml.cs
+*.vspscc
+*.psess
+
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
