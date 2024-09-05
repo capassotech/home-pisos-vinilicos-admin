@@ -450,6 +450,12 @@ C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Ser
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.dll
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.pdb
 C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.genruntimeconfig.cache
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Firebase.Database.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.PlatformServices.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Client.StaticWebAssets.xml
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -604,7 +610,6 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Client.StaticWebAssets.xml
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.StaticWebAssets.xml
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.exe
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.deps.json
@@ -614,6 +619,8 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.Views.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.Views.pdb
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Firebase.Database.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\FirebaseAdmin.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
@@ -628,6 +635,8 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
@@ -645,6 +654,10 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.PlatformServices.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.CodeDom.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Management.dll
@@ -655,10 +668,12 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Shared.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Application.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.dll
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Application.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Data.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Client.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Shared.pdb
+C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\home-pisos-vinilicos.Domain.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.csproj.AssemblyReference.cache
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.AssemblyInfoInputs.cache
@@ -687,8 +702,3 @@ C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.dll
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.pdb
 C:\Users\karen\OneDrive\Escritorio\Pisos program\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\obj\Debug\netcoreapp3.1\home-pisos-vinilicos-admin.Server.genruntimeconfig.cache
-C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\Firebase.Database.dll
-C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
-C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
-C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
-C:\Users\joaco\Desktop\home-pisos-vinilicos-admin\home-pisos-vinilicos-admin\Server\bin\Debug\netcoreapp3.1\System.Reactive.PlatformServices.dll

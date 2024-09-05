@@ -2,16 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\home-pisos-vinilicos-admin",
+    "\\home-pisos-vinilicos-admin\\Client",
     "\\home-pisos-vinilicos-admin\\Server",
     "\\home-pisos-vinilicos-admin\\Server\\Controllers",
-    "\\home-pisos-vinilicos.Application",
-    "\\home-pisos-vinilicos.Application\\Services",
-    "\\home-pisos-vinilicos.Application\\Services\\Interfaces",
+    "\\home-pisos-vinilicos-admin\\Shared",
     "\\home-pisos-vinilicos.Data",
-    "\\home-pisos-vinilicos.Data\\Repositories",
-    "\\home-pisos-vinilicos.Domain",
-    "\\home-pisos-vinilicos.Domain\\Entities"
+    "\\home-pisos-vinilicos.Data\\Contexts"
   ],
-  "SelectedNode": "\\home-pisos-vinilicos-admin\\Server\\Controllers\\AuthController.cs",
+  "SelectedNode": "\\home-pisos-vinilicos.Data\\Contexts\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

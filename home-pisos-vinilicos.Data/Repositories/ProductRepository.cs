@@ -1,30 +1,51 @@
-﻿using System;
+﻿using home_pisos_vinilicos.Data.Repositories;
+using home_pisos_vinilicos.Data.Repositories.IRepository;
+using home_pisos_vinilicos_admin.Domain;
+using System;
+using System.Threading.Tasks;
 
 namespace home_pisos_vinilicos_admin.Data
 {
-    /*
-    public class ProductRepository : IProductRepository
+    public class ProductRepository : FirebaseRepository<Product>, IProductRepository
     {
-        private readonly FirestoreDb _db;
-
-        public ProductRepository()
+        public ProductRepository() : base()
         {
-            
         }
 
-        public async Task AddProductAsync(Product product)
+        public override async Task<bool> Insert(Product newProduct)
         {
-            CollectionReference productsRef = _db.Collection("products");
-            await productsRef.AddAsync(product);
+            try
+            {
+                return await base.Insert(newProduct);
+            }
+            catch (Exception)
+            {
+                return false;
+            }
         }
 
-        public async Task<List<Product>> GetProductsAsync()
+        public override async Task<bool> Update(Product updateProduct)
         {
-            QuerySnapshot snapshot = await _db.Collection("products").GetSnapshotAsync();
-            return snapshot.Documents.Select(doc => doc.ConvertTo<Product>()).ToList();
+            try
+            {
+                return await base.Update(updateProduct);
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        public override async Task<bool> Delete(string id)
+        {
+            try
+            {
+                return await base.Delete(id);
+            }
+            catch (Exception)
+            {
+                return false;
+            }
         }
     }
-    */
-
-
 }
